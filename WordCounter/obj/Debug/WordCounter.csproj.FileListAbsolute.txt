@@ -1,0 +1,9 @@
+C:\development\WordCounter\WordCounter\bin\Debug\WordCounter.exe.config
+C:\development\WordCounter\WordCounter\bin\Debug\WordCounter.exe
+C:\development\WordCounter\WordCounter\bin\Debug\WordCounter.pdb
+C:\development\WordCounter\WordCounter\obj\Debug\WordCounter.csprojResolveAssemblyReference.cache
+C:\development\WordCounter\WordCounter\obj\Debug\WordCounter.Form1.resources
+C:\development\WordCounter\WordCounter\obj\Debug\WordCounter.Properties.Resources.resources
+C:\development\WordCounter\WordCounter\obj\Debug\WordCounter.csproj.GenerateResource.Cache
+C:\development\WordCounter\WordCounter\obj\Debug\WordCounter.exe
+C:\development\WordCounter\WordCounter\obj\Debug\WordCounter.pdb
